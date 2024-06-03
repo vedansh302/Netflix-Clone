@@ -153,9 +153,9 @@ nav button {
 
 .secImg video {
     position: absolute;
-    top: 51px;
-    right: 0;
-    width: 555px;
+    top: 120px;
+    left: 72px;
+    width: 410px;
 }
 
 section.first>div {
